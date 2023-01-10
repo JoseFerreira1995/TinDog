@@ -144,6 +144,37 @@ p {
     padding: 3% 2%;
 }
 
+/* Call to action */
+
+#cta {
+    background-color:#ff4c68;
+    padding: 8% 3%;
+    text-align: center;
+}
+
+.cta-h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: 900;
+    color: #fff;
+}
+
+/* Footer */
+
+#footer {
+    padding: 8% 3%;
+    text-align: center;
+}
+
+.footer-icon {
+    margin: 20px 10px;
+}
+
+.footer-icon:hover {
+    color: #ef8172;
+}
+
+
 @media (max-width: 1020px) {
 
     #title{
@@ -157,3 +188,4 @@ p {
 
     }
 }
+
